@@ -12,6 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require bootstrap   <<< 추가한 부분
+//= require bootstrap   
 //= require turbolinks
-//= require_tree 
+//= require_tree
